@@ -1,0 +1,2 @@
+# bootstrap
+&lt;meta charset="utf-8">   &lt;meta name="viewport" content="width=device-width, initial-scale=1">   &lt;link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">   &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">&lt;/script>   &lt;script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js">&lt;/script>    &lt;script src="js/script.js">&lt;/script>     &lt;link rel="stylesheet" href="css/sheet.css">
